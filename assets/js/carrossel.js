@@ -18,7 +18,6 @@ function carrosselInit() {
         repositorio: "https://getimg.ai/",
         detalhes:
           "getimg.ai is an AI-powered platform that enables users to create and edit images using text prompts. It offers a suite of tools",
-        techs: ["React", ,"Node", "Figma", "Trello"],
       },
       {
         titulo: "ArtxPro",
@@ -26,7 +25,6 @@ function carrosselInit() {
         repositorio: "https://artxpro.com/",
         detalhes:
           "ArtxPro.com is a web design and development company based in Pakistan. It specializes in creating responsive, visually appealing, and functional websites tailored to client needs, offering services like CMS development, e-commerce solutions, and website maintenance. With over 12 years of experience and a 98.9% client retention rate, ArtxPro is focused on providing customized solutions and seamless user experiences​",
-        techs: ["Next", "React", "Figma", "Angular"],
       },
       {
         titulo: "Galaxy Toyota",
@@ -34,7 +32,6 @@ function carrosselInit() {
         repositorio: "https://www.galaxytoyota.in/",
         detalhes:
           "Galaxy Toyota is a car dealership known for providing excellent customer service and a smooth buying experience. They receive positive feedback for transparency, helpful sales staff, and overall customer satisfaction. The dealership handles both new and pre-owned vehicles, building trust and a strong customer base over time",
-        techs: ["HTML5", "CSS3", "JavaScript", "React", "Figma"],
       },
       {
         titulo: "Face App",
@@ -42,7 +39,6 @@ function carrosselInit() {
         repositorio: "https://www.faceapp.com/",
         detalhes:
           "FaceApp is an advanced photo-editing application that uses AI to transform portrait photos with over 60 filters. It can apply features like age changes, retouching, facial hair, and background adjustments. Popular for its ease of use, FaceApp gained significant attention with its realistic aging filter, making it a top app in 2019. Available for download on both iOS and Android platforms, it boasts millions of active users worldwide.",
-        techs: ["HTML5", "Sass", "TypeScript", "React", "Figma"],
       },
       {
         titulo: "Construction Management",
@@ -50,7 +46,6 @@ function carrosselInit() {
         repositorio: "https://www.braveheartventures.ca/",
         detalhes:
           "Braveheart Ventures is a construction management company based in North Vancouver, British Columbia. They offer high-quality design and build services for both commercial and residential properties across the Vancouver Lower Mainland. Their services include commercial tenant improvements, retail store renovations, hospitality construction, and residential renovations, including condo projects. The company emphasizes flexibility, expertise, integrity, and efficiency in its operations.",
-        techs: ["HTML5", "CSS3", "JavaScript", "React", "Figma"],
       },
       {
         titulo: "Shang Hai Center",
@@ -58,7 +53,6 @@ function carrosselInit() {
         repositorio: "https://github.com/gc-barros/por-elas",
         detalhes:
           "ShangHai center building design (pixel perfect).",
-        techs: ["Figma", "Trello"],
       },
       {
         titulo: "Flamngo",
@@ -66,7 +60,6 @@ function carrosselInit() {
         repositorio: "https://flamingotoursbd.com/",
         detalhes:
           "Flamingo Tours & Travel Ltd. is a Bangladeshi travel agency with over a decade of experience, offering comprehensive tourism and travel-related services. Their offerings include international and domestic flight bookings, visa and passport assistance, tour packages, hotel reservations, vehicle services, and Hajj and Umrah arrangements. They have offices in Chittagong and Cox's Bazar, providing 24/7 customer support. Flamingo Tours & Travel has been nominated multiple times for Bangladesh's Leading Travel Agency by the World Travel Awards.",
-        techs: ["HTML5", "CSS3", "JavaScript", "Figma"],
       },
       {
         titulo: "Sky Scanner",
@@ -74,7 +67,6 @@ function carrosselInit() {
         repositorio: "https://www.skyscanner.com/",
         detalhes:
           'Skyscanner is a global travel search engine that allows users to compare and book flights, hotels, and car rentals. It aggregates data from various airlines and travel providers, enabling travelers to find the best deals and plan their trips efficiently. The platform offers features like flexible date searches and price alerts to help users secure optimal travel options. Skyscanner is accessible via its website and mobile app, catering to a wide audience worldwide.',
-        techs: ["HTML5", "CSS3", "JavaScript", "Figma"],
       },
     ],
   };
